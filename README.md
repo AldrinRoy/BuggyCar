@@ -62,7 +62,3 @@ _Maven command to run the test in Command Line:_
 The framework follows a Java-Cucumber Maven default folder structure. All the page object class are placed under page objects folder and step definitions
 are placed in the stepdefinition folder. All test data are available in test data folder and path definitions are provided in datamanager.
 All configuration details are placed config file under config folder.
-
-# Reports
-The reports for the test are generated using Maven sure fire plugin. Once the test execution is completed, you can find the 
-reports in the folder - C:\Work\Test\BuggyCars\target\surefire-reports. index.xml provides a neat report of the test execution. 
